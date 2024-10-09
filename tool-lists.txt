@@ -1,0 +1,9 @@
++ deobfuscate JS tools
+https://deobfuscate.relative.im/
+https://beautifier.io/
+
++ Bypass md5 value hash or bypass ==
+https://crypto.stackexchange.com/questions/1434/are-there-two-known-strings-which-have-the-same-md5-hash-value
+https://security.stackexchange.com/questions/171087/how-to-bypass-php-strings-comparison-for-sha256-string
+
+
